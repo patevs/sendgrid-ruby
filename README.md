@@ -1,6 +1,6 @@
-# Repo Template
+# SendGrid Ruby
 
-> A Basic Repository Template for Generic Projects
+> Sendgrid Ruby integration example.
 
 ---
 
@@ -11,10 +11,6 @@
 * [`commitlint`](https://github.com/conventional-changelog/commitlint)
 * [`husky`](https://github.com/typicode/husky)
 * [`np`](https://github.com/sindresorhus/np) A better npm publish.
-
-[](.)
-
-* [`create-semantic-module`](https://github.com/jlegrone/create-semantic-module)
 
 ---
 
