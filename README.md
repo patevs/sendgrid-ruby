@@ -18,12 +18,12 @@
 
 ```md
 .
-├── .editorconfig
-├── .gitignore
-├── .np-config.json
-├── LICENSE
-├── package.json
-└── README.md
+├── .editorconfig        # Editor configuration
+├── .gitignore           # Git ignore rules
+├── .np-config.json      # NPM publish (np) configuration
+├── LICENSE              # Project LICENSE
+├── package.json         # NPM package configuration
+└── README.md            # Project README
 ```
 
 ---
