@@ -14,6 +14,7 @@
   },
   "scripts": {
     "commit": "git-cz",
+    "updates": "npx ncu",
     "release": "np"
   },
   "dependencies": {},
