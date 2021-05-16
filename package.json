@@ -1,6 +1,6 @@
 {
   "name": "sendgrid-ruby",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Sendgrid Ruby integration example",
   "author": "PatEvs",
   "license": "MIT",
@@ -31,8 +31,14 @@
       "gitmoji"
     ],
     "rules": {
-      "subject-empty": [0, "never"],
-      "type-empty": [0, "never"]
+      "subject-empty": [
+        0,
+        "never"
+      ],
+      "type-empty": [
+        0,
+        "never"
+      ]
     }
   },
   "husky": {
