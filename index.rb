@@ -1,8 +1,7 @@
 #!/usr/bin/env ruby
 
-# -------- #
-# index.rb #
-# -------- #
+# index.rb
+# --------
 
 # using SendGrid's Ruby Library
 # https://github.com/sendgrid/sendgrid-ruby

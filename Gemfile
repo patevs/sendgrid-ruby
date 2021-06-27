@@ -1,6 +1,5 @@
-# ------- #
-# Gemfile #
-# ------- #
+# Gemfile
+# -------
 
 # frozen_string_literal: true
 
