@@ -14,7 +14,6 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "commit": "git-cz",
     "updates": "npx ncu",
     "release": "np"
   },
