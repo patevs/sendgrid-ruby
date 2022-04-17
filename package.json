@@ -13,6 +13,7 @@
     "npm": ">=6.8.0"
   },
   "scripts": {
+    "prepare": "husky install",
     "commit": "git-cz",
     "updates": "npx ncu",
     "release": "np"
@@ -39,11 +40,6 @@
         0,
         "never"
       ]
-    }
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "config": {
